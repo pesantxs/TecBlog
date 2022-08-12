@@ -1,0 +1,13 @@
+.nav__item-link{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-weight: 100;
+}
+
+.nav__item-link:hover{
+    background-color: white;
+    color: #f7b600;
+    padding: 5px;
+   
+}

@@ -1,0 +1,12 @@
+.aside__menu-link-item{
+    display: block;
+    text-decoration: none;
+    color: #f7b600;
+    padding-left: 5px;
+    line-height: 1.3em;
+}
+
+.aside__menu-link-item:hover{
+    text-decoration: underline;
+    color: #f7b600;
+}

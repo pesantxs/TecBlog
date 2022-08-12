@@ -1,0 +1,10 @@
+.header__title-blog{
+    color: #4e4e4e;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.header__title-blog span{
+    color: white;
+}

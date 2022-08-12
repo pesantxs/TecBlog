@@ -1,0 +1,11 @@
+.aside__menu-direct-item{
+    text-decoration: none;
+    color: #f7b600;
+    font-size: 0.8em;
+    padding-left: 5px;
+}
+
+.aside__menu-direct-item:hover{
+    text-decoration: underline;
+    color: #f7b600;
+}

@@ -1,0 +1,26 @@
+
+
+/*Atoms*/
+@import "../atoms/header/header__title-blog.css";
+@import "../atoms/nav/nav__item-link.css";
+@import "../atoms/main/noticia__image-item.css";
+@import "../atoms/main/noticia__title-item.css";
+@import "../atoms/main/noticia__link-item.css";
+@import "../atoms/main/noticia__date-item.css";
+@import "../atoms/aside/aside__menu-title.css";
+@import "../atoms/aside/aside__menu-link-item.css";
+@import "../atoms/aside/aside__menu-paragraph.css";
+@import "../atoms/aside/aside__menu-direct-item.css";
+@import "../atoms/aside/hr.css";
+
+/*Molecules*/
+@import "../molecules/noticia.css";
+@import "../molecules/container.css";
+@import "../molecules/area_postegem.css";
+@import "../molecules/aside__menu.css";
+
+
+/*Organisms*/
+@import "../organisms/header.css";
+@import "../organisms/main.css";
+@import "../organisms/footer.css";
