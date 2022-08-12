@@ -7,3 +7,4 @@
 
 <h2>Amostra</h2>
 
+<img src="https://github.com/pesantxs/TecBlog/blob/main/amostra_site.png" alt="amostra_projeto">
