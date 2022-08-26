@@ -4,6 +4,10 @@
 <p>Exercício de fixação proposto pelo curso de desnvolvimento web que adquiri na plataforma Udemy!</p>
 <p>Aqui foram utilziadas técncias de estilização de links, posicionamento, elementos flutuantes etc...</p>
 
+Aqui você pode testar as funcionalidades!
+
+https://pesantxs.github.io/TecBlog/
+
 Author: João Pedro Oliveira
 
 
